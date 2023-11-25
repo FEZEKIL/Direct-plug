@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "190819357633",
+    "project_id": "directplug-31e45",
+    "storage_bucket": "directplug-31e45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190819357633:android:84e8065cba621c00931540",
+        "android_client_info": {
+          "package_name": "com.example.directplug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190819357633-om9h4b1gk85qll1vcg8cno9b4g5nafjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv6CyFcBs30nKyL5EoOgQrdbX3_O0wrcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190819357633-om9h4b1gk85qll1vcg8cno9b4g5nafjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
